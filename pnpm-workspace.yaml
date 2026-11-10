@@ -1,0 +1,7 @@
+allowBuilds:
+  unrs-resolver: true
+  vue-demi: true
+minimumReleaseAgeExclude:
+  - '@luna-park/*'
+  - eslint-plugin-sort-keys-custom-order@4.0.0 || 4.0.1 || 4.1.0
+  - '@fluentui/web-components@3.2.1'
