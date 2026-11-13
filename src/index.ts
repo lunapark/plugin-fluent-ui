@@ -73,6 +73,7 @@ export default makePlugin({
     },
     guides,
     workspace: {
+        openOnClick: true,
         preview: workspacePreview,
         sections: workspaceSections
     }
